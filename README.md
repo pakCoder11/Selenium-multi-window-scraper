@@ -66,4 +66,4 @@ If you run into issues or have questions, open an issue on the repository or rea
 
 ---
 
-*Built with 💻 and ☕ by [Your Name/Team Name]*
+*Thanks for your support*
